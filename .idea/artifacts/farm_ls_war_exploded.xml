@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="farm_ls:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/farm_ls_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="farm_ls/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="farm_ls" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
